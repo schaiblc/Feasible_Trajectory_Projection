@@ -1,4 +1,4 @@
- Feasible_Trajectory_Projection
+#Feasible_Trajectory_Projection
 
 ECE 602 Final Project - This project explores the use of nonlinear model predictive control (NMPC) for 
 optimal control in autonomous path planning. An existing peer-reviewed formulation 
